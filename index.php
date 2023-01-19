@@ -4,6 +4,10 @@
     $firstName = 'John';
     $lastName = 'Doe';
     $age = 30;
+
+    //constants
+    define('NAME', 'Greg ');
+
 ?>
 
 <!DOCTYPE html>
@@ -21,6 +25,7 @@
     <!-- Reads from PHP and Displays-->
     <p><?php echo $firstName . ' ' . $lastName; ?></p>
     <p><?php echo $age; ?></p>
+    <p>Test!19</p>
 </div>
 
 </body>
