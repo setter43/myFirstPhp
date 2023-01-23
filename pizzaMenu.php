@@ -2,7 +2,7 @@
     //multi-dimensional array
     $pizzaMenu = [
         ['name'=>'Pepperoni', 'dietaryType' => 'Meat', 'Toppings' =>'Cheese & Pepperoni','price' => 3], 
-        ['name='>'Hawaiian', 'dietaryType' => 'Meat', 'Toppings' =>'Cheese, Ham, pineapple','price' => 4],
+        ['name'=>'Hawaiian', 'dietaryType' => 'Meat', 'Toppings' =>'Cheese, Ham, pineapple','price' => 4],
         ['name'=>'Veggie', 'dietaryType' => 'Veggie', 'Toppings' =>'Cheese, Mushrooms, Olives, Onions, Peppers','price' => 2 ],  
         ['name'=> 'Vegan', 'dietaryType' => 'Vegan', 'Toppings' =>' Vegan Cheese, Mushrooms, Olives, Onions, Peppers','price' => 2 ]
     ];   
