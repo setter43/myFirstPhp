@@ -1,0 +1,16 @@
+.brand{
+    background: #9ccbb0 !important;
+}
+.brand-text{
+    color: #9ccbb0 !important;
+}
+.brand-text-header{
+    color: #4974a5 !important;
+    /*make tecxt centre of page*/
+    text-align: center;
+}
+form{
+    max-width: 460px;
+    margin: 20px auto;
+    padding: 20px;
+}
